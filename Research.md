@@ -1,4 +1,10 @@
-I am interested in using mathematical models to study interactions and long-term behavior in physical systems.
+[[Home]](https://anniws.github.io/) 
+[[Research]](https://anniws.github.io/Research.html) 
+
+I am interested in complex systems, and how and why they work: interctions, information exchange, long-term behaviour etc.
+I use mathematical models to study them, often including code (mostly Python, sometimes R).
+
+![](wococ.png)
 
 Here's what I've written so far:
 (you can also see them [here](https://scholar.google.com/citations?user=rNr9oqkAAAAJ&hl=en))

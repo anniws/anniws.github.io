@@ -2,7 +2,7 @@
 [[Research]](https://anniws.github.io/Research.html) 
 [[CV]](https://anniws.github.io/CV.html) 
 
-I am interested in complex systems, and how and why they work: interctions, information exchange, long-term behaviour etc.
+I am interested in complex systems, and how and why they work: interactions, information exchange, long-term behaviour etc.
 I use mathematical models to study them, often including code (mostly Python, sometimes R).
 
 ![](wococ.png)

@@ -1,3 +1,7 @@
+[[Home]](https://anniws.github.io/) 
+[[Research]](https://anniws.github.io/Research.html) 
+[[CV]](https://anniws.github.io/CV.html) 
+
 
 Experience
 Postdoctoral researcher, IPLA-CSIC, 2025-(ongoing)

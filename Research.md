@@ -10,7 +10,7 @@ I use mathematical models to study them, often including code (mostly Python, so
 Here's what I've written so far:
 (you can also see them [here](https://scholar.google.com/citations?user=rNr9oqkAAAAJ&hl=en))
 
-[3] [PNAS](https://arxiv.org/abs/2511.19093)  Charlie Pilgrim, Andrew M Bate, **Anna Sigalou**, Mélisande Aellen, Joe Morford, Elizabeth Warren, Christopher Krupenye, Dora Biro, Richard P Mann, _Many-Eyes and Sentinels in Selfish and Cooperative Groups_, PNAS (in press)
+[3] [PNAS](https://doi.org/10.1073/pnas.2536017123)  Charlie Pilgrim, Andrew M Bate, **Anna Sigalou**, Mélisande Aellen, Joe Morford, Elizabeth Warren, Christopher Krupenye, Dora Biro, Richard P Mann, _Many-Eyes and Sentinels in Selfish and Cooperative Groups_, Proceedings of the National Academy of Sciences, 2026, 123 (33), e2536017123
 
 [2] [Royal Society Interface](https://doi.org/10.1098/rsif.2025.1214) **Anna Sigalou**, Yunhe Tong, Charlie Pilgrim, Richard P. Mann, Nikolai W.F. Bode, _Determining social mechanisms for sequential decision-making in a virtual pedestrian route choice experiment_, Royal Society Interface, 2026, 23 (240): 20251214
 

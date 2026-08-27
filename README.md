@@ -1,6 +1,7 @@
 [[Home]](https://anniws.github.io/) 
 [[Research]](https://anniws.github.io/Research.html) 
 [[CV]](https://anniws.github.io/CV.html) 
+[[Other]](https://anniws.github.io/aux.html) 
 
 ![](leeds_pic.jpg)
 

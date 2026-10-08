@@ -10,10 +10,12 @@ Experience:
 
 -> Teaching assistant, University of Leeds, 2024-2025
 
+-> Staff ("enabler"), MathsCity, Leeds, 2022-2025
+
 
 Education:
 
--> PhD in Statistics, University of Leeds, 2024
+-> PhD in Statistics, University of Leeds, 2025
 
 -> MSc in Applied Mathematical Sciences, Heriot-Watt University, 2020
 
